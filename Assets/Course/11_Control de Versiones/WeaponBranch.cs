@@ -5,5 +5,10 @@ namespace Course.ControlDeVersiones
     public class WeaponBranch : MonoBehaviour
     {
         string title;
+
+        private void Start()
+        {
+            title = "Pistol";
+        }
     }
 }
