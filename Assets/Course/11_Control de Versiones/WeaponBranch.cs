@@ -8,7 +8,7 @@ namespace Course.ControlDeVersiones
 
         private void Start()
         {
-            title = "Pistol";
+            title = "Rifle";
         }
     }
 }
